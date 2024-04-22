@@ -1,0 +1,4 @@
+{
+  "./JustHai": "./src/components/JustHai.js",
+  "./MyName": "./src/components/MyName.js"
+}
